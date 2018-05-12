@@ -1,4 +1,5 @@
 _repo: The-Gatakamala-Garland-of-Birth-Stories_46984
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Speyer, J. S. (Jacob Samuel)
@@ -7,12 +8,17 @@ contributor:
     gutenberg_agent_id: '44078'
     url: http://www.gutenberg.org/2009/agents/44078
     wikipedia: http://nl.wikipedia.org/wiki/Jacob_Speyer
+covers:
+- cover_type: archival
+  image_path: 46984-h/images/cover.jpg
 creator:
   author:
     agent_name: Āryaśūra
     gutenberg_agent_id: '44077'
     url: http://www.gutenberg.org/2009/agents/44077
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46984#The-Gatakamala-Garland-of-Birth-Stories
 gutenberg_issued: '2014-09-28'
 gutenberg_type: Text
 identifiers:
